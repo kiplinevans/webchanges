@@ -169,6 +169,20 @@ background: #980101;
 padding: 30px;
 }
 
+#intro-ol{
+position: relative;
+margin-top: 10%;
+margin-left:  35%;
+border: 3px solid black;
+width: 200px;
+height:100px;
+background: #980101;
+
+
+
+padding: 30px;
+}
+
 ul{
 font-family: Ariel;
 font-size: 20px;
